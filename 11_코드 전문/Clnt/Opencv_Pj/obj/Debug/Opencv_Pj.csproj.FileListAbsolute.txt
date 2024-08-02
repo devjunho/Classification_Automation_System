@@ -1,0 +1,180 @@
+C:\Users\jhlee\source\repos\Opencv_Pj\obj\Debug\Opencv_Pj.csproj.AssemblyReference.cache
+C:\Users\jhlee\source\repos\Opencv_Pj\obj\Debug\Classify.g.cs
+C:\Users\jhlee\source\repos\Opencv_Pj\obj\Debug\MainWindow.g.cs
+C:\Users\jhlee\source\repos\Opencv_Pj\obj\Debug\Menu.g.cs
+C:\Users\jhlee\source\repos\Opencv_Pj\obj\Debug\Videocam.g.cs
+C:\Users\jhlee\source\repos\Opencv_Pj\obj\Debug\App.g.cs
+C:\Users\jhlee\source\repos\Opencv_Pj\obj\Debug\Opencv_Pj_Content.g.cs
+C:\Users\jhlee\source\repos\Opencv_Pj\obj\Debug\Opencv_Pj_MarkupCompile.cache
+C:\Users\jhlee\source\repos\Opencv_Pj\obj\Debug\Opencv_Pj_MarkupCompile.lref
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\dll\x86\opencv_videoio_ffmpeg4100.dll
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\Opencv_Pj.exe.config
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\Opencv_Pj.exe
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\Opencv_Pj.pdb
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\OpenCvSharp.dll
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\System.Buffers.dll
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\System.Drawing.Common.dll
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\System.Memory.dll
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\System.ValueTuple.dll
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\OpenCvSharp.xml
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\System.Buffers.xml
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\System.Drawing.Common.xml
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\System.Memory.xml
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\System.ValueTuple.xml
+C:\Users\jhlee\source\repos\Opencv_Pj\obj\Debug\Classify.baml
+C:\Users\jhlee\source\repos\Opencv_Pj\obj\Debug\MainWindow.baml
+C:\Users\jhlee\source\repos\Opencv_Pj\obj\Debug\Menu.baml
+C:\Users\jhlee\source\repos\Opencv_Pj\obj\Debug\Videocam.baml
+C:\Users\jhlee\source\repos\Opencv_Pj\obj\Debug\Opencv_Pj.g.resources
+C:\Users\jhlee\source\repos\Opencv_Pj\obj\Debug\Opencv_Pj.Properties.Resources.resources
+C:\Users\jhlee\source\repos\Opencv_Pj\obj\Debug\Opencv_Pj.csproj.GenerateResource.cache
+C:\Users\jhlee\source\repos\Opencv_Pj\obj\Debug\Opencv_Pj.csproj.CoreCompileInputs.cache
+C:\Users\jhlee\source\repos\Opencv_Pj\obj\Debug\Opencv_Pj.csproj.Up2Date
+C:\Users\jhlee\source\repos\Opencv_Pj\obj\Debug\Opencv_Pj.exe
+C:\Users\jhlee\source\repos\Opencv_Pj\obj\Debug\Opencv_Pj.pdb
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\x86\leptonica-1.82.0.dll
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\x86\tesseract50.dll
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\x64\leptonica-1.82.0.dll
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\x64\tesseract50.dll
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\Tesseract.dll
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\LiveCharts.dll
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\LiveCharts.pdb
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\LiveCharts.xml
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\jhlee\source\repos\Opencv_Pj\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jhlee\source\repos\Opencv_Pj\obj\Debug\ShowGraph.g.cs
+C:\Users\jhlee\source\repos\Opencv_Pj\obj\Debug\ShowGraph.baml
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\dll\x86\opencv_videoio_ffmpeg4100.dll
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\x86\leptonica-1.82.0.dll
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\x86\tesseract50.dll
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\x64\leptonica-1.82.0.dll
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\x64\tesseract50.dll
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\Opencv_Pj.exe.config
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\Opencv_Pj.exe
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\Opencv_Pj.pdb
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\LiveCharts.dll
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\OpenCvSharp.dll
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\System.Buffers.dll
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\System.Drawing.Common.dll
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\System.Memory.dll
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\System.ValueTuple.dll
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\Tesseract.dll
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\LiveCharts.pdb
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\LiveCharts.xml
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\OpenCvSharp.xml
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\System.Buffers.xml
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\System.Drawing.Common.xml
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\System.Memory.xml
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aiot\source\repos\Opencv_Pj\bin\Debug\System.ValueTuple.xml
+C:\Users\aiot\source\repos\Opencv_Pj\obj\Debug\Opencv_Pj.csproj.AssemblyReference.cache
+C:\Users\aiot\source\repos\Opencv_Pj\obj\Debug\Classify.g.cs
+C:\Users\aiot\source\repos\Opencv_Pj\obj\Debug\MainWindow.g.cs
+C:\Users\aiot\source\repos\Opencv_Pj\obj\Debug\Menu.g.cs
+C:\Users\aiot\source\repos\Opencv_Pj\obj\Debug\ShowGraph.g.cs
+C:\Users\aiot\source\repos\Opencv_Pj\obj\Debug\Videocam.g.cs
+C:\Users\aiot\source\repos\Opencv_Pj\obj\Debug\App.g.cs
+C:\Users\aiot\source\repos\Opencv_Pj\obj\Debug\Opencv_Pj_Content.g.cs
+C:\Users\aiot\source\repos\Opencv_Pj\obj\Debug\Opencv_Pj_MarkupCompile.cache
+C:\Users\aiot\source\repos\Opencv_Pj\obj\Debug\Opencv_Pj_MarkupCompile.lref
+C:\Users\aiot\source\repos\Opencv_Pj\obj\Debug\Classify.baml
+C:\Users\aiot\source\repos\Opencv_Pj\obj\Debug\MainWindow.baml
+C:\Users\aiot\source\repos\Opencv_Pj\obj\Debug\Menu.baml
+C:\Users\aiot\source\repos\Opencv_Pj\obj\Debug\ShowGraph.baml
+C:\Users\aiot\source\repos\Opencv_Pj\obj\Debug\Videocam.baml
+C:\Users\aiot\source\repos\Opencv_Pj\obj\Debug\Opencv_Pj.g.resources
+C:\Users\aiot\source\repos\Opencv_Pj\obj\Debug\Opencv_Pj.Properties.Resources.resources
+C:\Users\aiot\source\repos\Opencv_Pj\obj\Debug\Opencv_Pj.csproj.GenerateResource.cache
+C:\Users\aiot\source\repos\Opencv_Pj\obj\Debug\Opencv_Pj.csproj.CoreCompileInputs.cache
+C:\Users\aiot\source\repos\Opencv_Pj\obj\Debug\Opencv_Pj.csproj.Up2Date
+C:\Users\aiot\source\repos\Opencv_Pj\obj\Debug\Opencv_Pj.exe
+C:\Users\aiot\source\repos\Opencv_Pj\obj\Debug\Opencv_Pj.pdb
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\dll\x86\opencv_videoio_ffmpeg4100.dll
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\x86\leptonica-1.82.0.dll
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\x86\tesseract50.dll
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\x64\leptonica-1.82.0.dll
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\x64\tesseract50.dll
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\Opencv_Pj.exe.config
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\Opencv_Pj.exe
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\Opencv_Pj.pdb
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\LiveCharts.dll
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\OpenCvSharp.dll
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\System.Buffers.dll
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\System.Drawing.Common.dll
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\System.Memory.dll
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\System.ValueTuple.dll
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\Tesseract.dll
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\LiveCharts.pdb
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\LiveCharts.xml
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\OpenCvSharp.xml
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\System.Buffers.xml
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\System.Drawing.Common.xml
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\System.Memory.xml
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\bin\Debug\System.ValueTuple.xml
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\obj\Debug\Opencv_Pj.csproj.AssemblyReference.cache
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\obj\Debug\Classify.g.cs
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\obj\Debug\MainWindow.g.cs
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\obj\Debug\Menu.g.cs
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\obj\Debug\ShowGraph.g.cs
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\obj\Debug\Videocam.g.cs
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\obj\Debug\App.g.cs
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\obj\Debug\Opencv_Pj_Content.g.cs
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\obj\Debug\Opencv_Pj_MarkupCompile.cache
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\obj\Debug\Opencv_Pj_MarkupCompile.lref
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\obj\Debug\Classify.baml
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\obj\Debug\MainWindow.baml
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\obj\Debug\Menu.baml
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\obj\Debug\ShowGraph.baml
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\obj\Debug\Videocam.baml
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\obj\Debug\Opencv_Pj.g.resources
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\obj\Debug\Opencv_Pj.Properties.Resources.resources
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\obj\Debug\Opencv_Pj.csproj.GenerateResource.cache
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\obj\Debug\Opencv_Pj.csproj.CoreCompileInputs.cache
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\obj\Debug\Opencv_Pj.csproj.Up2Date
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\obj\Debug\Opencv_Pj.exe
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\obj\Debug\Opencv_Pj.pdb
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\obj\Debug\History.g.cs
+C:\Users\jhlee\OneDrive\바탕 화면\Opencv_Pj_seok\obj\Debug\History.baml
+C:\Users\jhlee\source\repos\Opencv_Pj\obj\Debug\History.g.cs
+C:\Users\jhlee\source\repos\Opencv_Pj\obj\Debug\History.baml
+C:\Users\aiot\source\repos\Opencv_Pj\obj\Debug\History.g.cs
+C:\Users\aiot\source\repos\Opencv_Pj\obj\Debug\History.baml
