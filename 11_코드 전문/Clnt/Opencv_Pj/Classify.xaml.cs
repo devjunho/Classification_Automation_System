@@ -101,9 +101,6 @@ namespace Opencv_Pj
                         croppedFilePath = @"C:\Users\aiot\OneDrive\사진\카메라 앨범\" + save_name + "_cropped.jpg";
                         Cv2.ImWrite(croppedFilePath, croppedRegion);
 
-                        // 구색..ㅋ
-                        string lier = @"C:\Users\aiot\OneDrive\사진\ab42bb6b839e3978.jpg";
-
                         // Tesseract OCR로 글자 인식
                         using (var img = Pix.LoadFromFile(lier))
                         //using (var img = Pix.LoadFromFile(croppedFilePath))
